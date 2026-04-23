@@ -1,85 +1,109 @@
-## Hi there 👋
+# 👋 Jainam Shah
 
-<h1 align="center">Jainam Shah</h1>
-<p align="center">
-  Data Scientist • AI/ML Engineer  
-</p>
+### Data Scientist | AI Systems Engineer
 
-<p align="center">
-  Building real-world AI systems that solve business problems
-</p>
+Building **production-grade AI systems** that solve real-world business problems — not just models, but end-to-end pipelines.
 
 ---
 
-## 🚀 About Me
+## 🚀 What I Do
 
-I design and build **end-to-end data science solutions** — from data processing to model deployment.
-
-Currently working as a **Python & AIML Intern @ IndiaNIC**, focusing on:
-
-- Machine Learning & Deep Learning  
-- NLP & Recommender Systems  
-- Data Analytics & Business Intelligence  
+* Design **scalable ML systems** (data → model → deployment)
+* Build **recommender systems, NLP pipelines, and analytics dashboards**
+* Work on **real-world use cases** like user behavior prediction, anomaly detection, and personalization
 
 ---
 
-## 🔥 Featured Work
+## 💼 Experience
 
-### 🛒 Hybrid Recommender System
-- Designed collaborative + content-based recommendation engine  
-- Evaluated using Precision@K, Recall@K, NDCG  
-- Built with Python & Spark  
+**Python & AIML Intern — IndiaNIC Infotech (Ahmedabad)**
 
-👉 *Add project link here*
+* Developing AI-driven applications using ML, NLP, and analytics
+* Working on real-world datasets and business problems
 
 ---
 
-### 💬 NLP Sentiment & Topic Analysis
-- BERT-based sentiment classification  
-- Topic modeling using BERTopic  
-- Interactive dashboard in Power BI  
+## 🔥 Featured Projects
 
-👉 *Add project link here*
+### 🏡 LuxeEstate — AI Real Estate Platform
 
----
+A full-stack real estate platform with **AI-powered property recommendations & chatbot**
 
-### 📱 AI Device Diagnostics System
-- Predicts overheating & battery issues  
-- Models: LSTM, Isolation Forest  
-- Real-time anomaly detection  
+* Built using **Django + ML recommendation engine**
+* Personalized property suggestions based on user behavior
+* Integrated chatbot for intelligent property search
+* Designed scalable backend for listings & user interaction
 
-👉 *Add project link here*
+👉 https://github.com/jainam-shah-18/LuxeEstate
 
 ---
 
-## 🧠 Skills
+### 🎧 Mood-Based Spotify Recommender System
 
-**ML/AI:** Scikit-learn, TensorFlow, PyTorch  
-**Data:** Pandas, NumPy, SQL  
-**Visualization:** Power BI, Tableau  
-**Cloud:** AWS / GCP  
+Recommends songs based on **user mood & listening patterns**
 
----
+* ML model to classify mood from audio/user features
+* Personalized playlist generation system
+* Data processing + feature engineering pipeline
+* Evaluation using recommendation metrics
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jainam-shah-18&show_icons=true&hide_border=true" />
-</p>
+👉 https://github.com/jainam-shah-18/mood-spotify-ml
 
 ---
 
-## ✍️ Writing
+### 🛒 Walmart Sales Analysis (Data Analytics Project)
 
-I break down complex AI systems into simple ideas.
+Business-focused data analysis to uncover **sales trends & insights**
 
-*(Coming soon — ML, NLP & real-world case studies)*
+* Data cleaning, EDA, and visualization
+* Built dashboards using **Power BI**
+* Identified key drivers of revenue & demand
+
+👉 https://github.com/jainam-shah-18/project_walmart
+
+---
+
+## 🧠 Tech Stack
+
+**Machine Learning:**
+Scikit-learn • TensorFlow • PyTorch
+
+**Data Engineering:**
+Python • Pandas • NumPy • SQL
+
+**Visualization & BI:**
+Power BI • Tableau
+
+**Cloud & Tools:**
+AWS • Git • Docker (learning)
 
 ---
 
-## 📫 Connect
+## 📈 What Makes Me Different
 
-- LinkedIn: https://www.linkedin.com/in/jainam-shah-374637266  
-- GitHub: https://github.com/jainam-shah-18  
+* I don’t just train models — I build **complete systems**
+* Focus on **business impact + scalability**
+* Projects simulate **real company problems (Amazon, Spotify, Samsung-level)**
 
 ---
+
+## 📊 GitHub Activity
+
+Consistently building and improving real-world AI projects
+
+---
+
+## ✍️ Writing (Coming Soon)
+
+Breaking down AI systems into simple, practical insights
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/jainam-shah-374637266
+* GitHub: https://github.com/jainam-shah-18
+
+---
+
+⭐ If you like my work, consider following — more advanced AI systems coming soon.
