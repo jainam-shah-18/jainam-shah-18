@@ -1,94 +1,85 @@
 ## Hi there 👋
 
-# Jainam Shah
-Building AI systems to solve real-world business problems
+<h1 align="center">Jainam Shah</h1>
+<p align="center">
+  Data Scientist • AI/ML Engineer  
+</p>
 
-Data Scientist | AI/ML Engineer  
+<p align="center">
+  Building real-world AI systems that solve business problems
+</p>
 
 ---
 
-## About
+## 🚀 About Me
 
-I am a Data Scientist focused on building real-world, scalable AI systems.
+I design and build **end-to-end data science solutions** — from data processing to model deployment.
 
-Currently working as a Python & AIML Intern at IndiaNIC, I specialize in:
+Currently working as a **Python & AIML Intern @ IndiaNIC**, focusing on:
 
 - Machine Learning & Deep Learning  
-- Natural Language Processing (NLP)  
-- Recommender Systems  
-- Data Analytics & Visualization  
-
-I build industry-driven projects inspired by real-world challenges in companies like Amazon, Samsung, and Meta.
+- NLP & Recommender Systems  
+- Data Analytics & Business Intelligence  
 
 ---
 
-## Projects
+## 🔥 Featured Work
 
-### Hybrid Recommender System
-- Built collaborative + content-based recommendation system  
+### 🛒 Hybrid Recommender System
+- Designed collaborative + content-based recommendation engine  
 - Evaluated using Precision@K, Recall@K, NDCG  
-- Tech: Python, Spark  
+- Built with Python & Spark  
+
+👉 *Add project link here*
 
 ---
 
-### NLP Sentiment & Topic Analysis
-- Sentiment classification using BERT  
+### 💬 NLP Sentiment & Topic Analysis
+- BERT-based sentiment classification  
 - Topic modeling using BERTopic  
-- Dashboard built using Power BI  
+- Interactive dashboard in Power BI  
+
+👉 *Add project link here*
 
 ---
 
-### AI-Based Device Diagnostics
-- Predicts overheating & battery drain  
+### 📱 AI Device Diagnostics System
+- Predicts overheating & battery issues  
 - Models: LSTM, Isolation Forest  
-- Focus on real-time anomaly detection  
+- Real-time anomaly detection  
+
+👉 *Add project link here*
 
 ---
 
-## Skills
+## 🧠 Skills
 
-**Languages:** Python, SQL  
-**ML/DL:** Scikit-learn, TensorFlow, PyTorch  
-**Data:** Pandas, NumPy  
-**BI:** Power BI, Tableau  
+**ML/AI:** Scikit-learn, TensorFlow, PyTorch  
+**Data:** Pandas, NumPy, SQL  
+**Visualization:** Power BI, Tableau  
 **Cloud:** AWS / GCP  
 
 ---
 
-## Writing
+## 📈 GitHub Activity
 
-I share insights on:
-- Machine Learning projects  
-- Data Science workflows  
-- Real-world AI systems  
-
-(Articles coming soon)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jainam-shah-18&show_icons=true&hide_border=true" />
+</p>
 
 ---
 
-## GitHub Stats
+## ✍️ Writing
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jainam-shah-18&show_icons=true)
+I break down complex AI systems into simple ideas.
+
+*(Coming soon — ML, NLP & real-world case studies)*
 
 ---
 
-## Contact
+## 📫 Connect
 
 - LinkedIn: https://www.linkedin.com/in/jainam-shah-374637266  
 - GitHub: https://github.com/jainam-shah-18  
 
----!--
-**jainam-shah-18/jainam-shah-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-👉 [View Project](https://github.com/your-repo-link)
+---
