@@ -1,6 +1,6 @@
 # 👋  Jainam Shah
 
-### Data Scientist | AI Systems Builder
+### Data Scientist | AIML Engineer
 
 > Building production-grade AI systems — not just models.
 
