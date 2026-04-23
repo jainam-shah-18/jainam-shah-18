@@ -1,4 +1,4 @@
-# 👋 # Jainam Shah
+# 👋  Jainam Shah
 
 ### Data Scientist | AI Systems Builder
 
