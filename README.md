@@ -1,109 +1,109 @@
-# 👋 Jainam Shah
+# 👋 # Jainam Shah
 
-### Data Scientist | AI Systems Engineer
+### Data Scientist | AI Systems Builder
 
-Building **production-grade AI systems** that solve real-world business problems — not just models, but end-to-end pipelines.
-
----
-
-## 🚀 What I Do
-
-* Design **scalable ML systems** (data → model → deployment)
-* Build **recommender systems, NLP pipelines, and analytics dashboards**
-* Work on **real-world use cases** like user behavior prediction, anomaly detection, and personalization
+> Building production-grade AI systems — not just models.
 
 ---
 
-## 💼 Experience
+## 🧠 What I Do
 
-**Python & AIML Intern — IndiaNIC Infotech (Ahmedabad)**
+I design **end-to-end data science systems** that solve real-world problems — from raw data → modeling → deployment → business impact.
 
-* Developing AI-driven applications using ML, NLP, and analytics
-* Working on real-world datasets and business problems
-
----
-
-## 🔥 Featured Projects
-
-### 🏡 LuxeEstate — AI Real Estate Platform
-
-A full-stack real estate platform with **AI-powered property recommendations & chatbot**
-
-* Built using **Django + ML recommendation engine**
-* Personalized property suggestions based on user behavior
-* Integrated chatbot for intelligent property search
-* Designed scalable backend for listings & user interaction
-
-👉 https://github.com/jainam-shah-18/LuxeEstate
+* Machine Learning & Deep Learning
+* NLP & Recommender Systems
+* Data Analytics & Decision Systems
+* Scalable Data Pipelines
 
 ---
 
-### 🎧 Mood-Based Spotify Recommender System
+## 🚀 Featured Systems
 
-Recommends songs based on **user mood & listening patterns**
+### 🏙️ LuxeEstate — AI Real Estate Intelligence Platform
 
-* ML model to classify mood from audio/user features
-* Personalized playlist generation system
-* Data processing + feature engineering pipeline
-* Evaluation using recommendation metrics
+A full-stack data-driven real estate platform built with Django, focused on **intelligent property discovery and user engagement**.
 
-👉 https://github.com/jainam-shah-18/mood-spotify-ml
+**What makes it strong:**
 
----
+* AI-powered property recommendation engine
+* Conversational chatbot for user interaction
+* Payment-enabled listing promotion system
+* Structured backend for scalable listings
 
-### 🛒 Walmart Sales Analysis (Data Analytics Project)
-
-Business-focused data analysis to uncover **sales trends & insights**
-
-* Data cleaning, EDA, and visualization
-* Built dashboards using **Power BI**
-* Identified key drivers of revenue & demand
-
-👉 https://github.com/jainam-shah-18/project_walmart
+**Tech:** Python, Django, ML Models, SQLite/PostgreSQL
 
 ---
 
-## 🧠 Tech Stack
+### 🎧 Mood-Based Spotify Recommendation System
 
-**Machine Learning:**
+A machine learning system that **predicts user mood and recommends music accordingly**.
+
+**Core capabilities:**
+
+* Mood classification using ML models
+* Feature engineering from audio signals
+* Personalized recommendation logic
+* Data-driven playlist generation
+
+**Tech:** Python, Scikit-learn, Pandas
+
+---
+
+### 🛍️ Retail Analytics (Walmart Project)
+
+A data analytics project focused on **extracting business insights from retail data**.
+
+**What it demonstrates:**
+
+* Exploratory Data Analysis (EDA)
+* Trend and seasonality detection
+* Business KPI interpretation
+* Data storytelling for decision-making
+
+**Tech:** Python, Pandas, Matplotlib
+
+---
+
+## ⚙️ Technical Stack
+
+**AI / ML:**
 Scikit-learn • TensorFlow • PyTorch
 
-**Data Engineering:**
-Python • Pandas • NumPy • SQL
+**Data:**
+Pandas • NumPy • SQL
 
-**Visualization & BI:**
+**Visualization:**
 Power BI • Tableau
 
-**Cloud & Tools:**
-AWS • Git • Docker (learning)
+**Cloud / Tools:**
+AWS • Git • APIs
 
 ---
 
-## 📈 What Makes Me Different
+## 📊 Engineering Mindset
 
-* I don’t just train models — I build **complete systems**
-* Focus on **business impact + scalability**
-* Projects simulate **real company problems (Amazon, Spotify, Samsung-level)**
+I don’t just train models — I focus on:
 
----
-
-## 📊 GitHub Activity
-
-Consistently building and improving real-world AI projects
+* Problem framing before modeling
+* Metrics that reflect business value
+* System design over isolated notebooks
+* Clean, scalable codebases
 
 ---
 
-## ✍️ Writing (Coming Soon)
+## 📈 Current Focus
 
-Breaking down AI systems into simple, practical insights
+* Building AI-powered platforms (not just experiments)
+* Improving recommender systems with hybrid approaches
+* Moving towards MLOps & production deployment
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect
 
 * LinkedIn: https://www.linkedin.com/in/jainam-shah-374637266
 * GitHub: https://github.com/jainam-shah-18
 
 ---
 
-⭐ If you like my work, consider following — more advanced AI systems coming soon.
+> “Good models predict. Great systems deliver impact.”
