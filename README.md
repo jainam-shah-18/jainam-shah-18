@@ -45,7 +45,9 @@ I build production-style AI applications combining:
 - Analytics dashboards
 - Payment integrations
 
-Currently focused on building scalable AI-powered applications using **Python, Django, FastAPI, SQL, Scikit-learn, WebSockets, and AI/ML workflows**.
+Currently focused on building scalable AI-powered applications using:
+
+`Python` `Django` `FastAPI` `SQL` `Scikit-learn` `WebSockets`
 
 ---
 
@@ -58,7 +60,7 @@ Currently focused on building scalable AI-powered applications using **Python, D
 | ⚡ | Developed real-time systems using WebSockets & Django Channels |
 | 💳 | Integrated Razorpay payment workflows and transaction systems |
 | 📊 | Worked on analytics dashboards and intelligent search systems |
-| 🏗️ | Experience building production-style scalable backend systems |
+| 🏗️ | Experience building scalable backend systems |
 
 ---
 
@@ -71,10 +73,6 @@ Currently focused on building scalable AI-powered applications using **Python, D
 ### `Internship Project @ IndiaNIC Infotech`
 
 [![Repo](https://img.shields.io/badge/GitHub-LuxeEstate-181717?style=flat-square&logo=github)](https://github.com/jainam-shah-18/LuxeEstate)
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
 
 Built a full-stack AI-powered real estate platform featuring:
 
@@ -104,13 +102,6 @@ Hybrid recommendation system combining:
 - Mood-aware ranking
 - Context-based recommendation workflows
 
-### Features
-
-- DistilBERT & NLP pipelines
-- FastAPI backend APIs
-- Recommendation evaluation metrics
-- Power BI analytics dashboard
-
 ### Results
 
 | Metric | Score |
@@ -128,8 +119,6 @@ Hybrid recommendation system combining:
 ## 📦 Supply Chain Analytics — Demand & Inventory Intelligence
 
 ### `Data Analytics Project`
-
-[![Repo](https://img.shields.io/badge/GitHub-SupplyChainAnalytics-181717?style=flat-square&logo=github)](https://github.com/jainam-shah-18)
 
 Built analytics workflows on large transaction datasets involving:
 
@@ -209,51 +198,15 @@ AI-powered recipe recommendation system supporting:
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jainam-shah-18&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainam-shah-18&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img height="170" src="https://streak-stats.demolab.com?user=jainam-shah-18&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=jainam-shah-18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jainam-shah-18&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 # 🎯 Open To Opportunities
 
 | Role | Status |
 |---|---|
 | AI Engineer | ✅ Open |
 | ML Engineer | ✅ Open |
-| Data Scientist | ✅ Open |
 | Data Analyst | ✅ Open |
 | Data Engineer | ✅ Open |
+| Data Scientist | ✅ Open |
 | Python Backend Engineer | ✅ Open |
 
 ---
@@ -262,7 +215,7 @@ AI-powered recipe recommendation system supporting:
 
 <div align="center">
 
-### 🚀 Building AI-Powered Applications & Production-Style Backend Systems
+### 🚀 Building AI-Powered Applications & Scalable Backend Systems
 
 <br>
 
@@ -276,7 +229,7 @@ AI-powered recipe recommendation system supporting:
 
 <div align="center">
 
-### ⭐ “Focused on building practical AI systems that solve real-world problems.” ⭐
+### ⭐ Focused on building practical AI systems that solve real-world problems ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
