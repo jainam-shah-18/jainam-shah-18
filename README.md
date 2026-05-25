@@ -1,17 +1,16 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jainam%20Shah&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Building%20Real%20Systems&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jainam%20Shah&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Fresh%20Out%20of%20University.%20Already%20Shipping%20AI%20to%20Production.&descAlignY=58&descSize=15"/>
 
-<!-- ANIMATED TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=AI+%2F+ML+Engineer+%40+IndiaNIC+Infotech;Building+Production+AI+Systems+%F0%9F%9A%80;LLMs+%C2%B7+NLP+%C2%B7+Recommender+Systems;Django+%C2%B7+FastAPI+%C2%B7+PostgreSQL+%C2%B7+Redis;Turning+Data+Into+Decisions+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=0+Years+of+Experience.+100%25+Real+Projects.;AIML+Intern+%40+IndiaNIC+Infotech+%F0%9F%87%AE%F0%9F%87%B3;Integrated+NVIDIA+NIM+LLMs+into+Production;Built+a+Recommender+with+%2B47%25+Precision+Uplift;Learning+Fast.+Shipping+Faster." alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=jainam-shah-18&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/jainam-shah-18?label=Followers&style=social" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=jainam-shah-18&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/badge/Experience-Fresher%20%2F%200--1%20yr-brightgreen?style=flat"/>
+<img src="https://img.shields.io/badge/Status-Actively%20Looking-blue?style=flat"/>
 
 <br/><br/>
 
@@ -23,139 +22,103 @@
 
 ---
 
-## 🧠 About Me
+## 👋 Hey, I'm Jainam
 
 ```python
 jainam = {
-    "role"        : "AI/ML Engineer (Trainee) @ IndiaNIC Infotech Ltd",
-    "location"    : "Ahmedabad, India 🇮🇳",
-    "focus"       : ["LLMs", "NLP", "Recommender Systems", "Data Pipelines"],
-    "currently"   : "Shipping LuxeEstate — production AI real estate platform",
+    "status"      : "Fresher — 0 years of experience, 4 shipped projects",
+    "current"     : "AIML Intern @ IndiaNIC Infotech Ltd, Ahmedabad 🇮🇳",
+    "building"    : "LuxeEstate — production AI real estate platform with NVIDIA NIM LLMs",
+    "proven"      : "Hybrid recommender → Precision@10: 0.345 (+47% over baseline)",
     "stack"       : ["Python", "Django", "FastAPI", "PyTorch", "PostgreSQL", "Redis"],
-    "superpower"  : "I build AI systems that ship — not just notebooks that demo",
-    "open_to"     : "Data Scientist · ML Engineer · AI Engineer (Fresher / 0-1 yr)",
-    "contact"     : "jainamshah714@gmail.com"
+    "learning"    : ["RAG pipelines", "MLflow", "Docker", "LLM fine-tuning"],
+    "looking_for" : "First full-time role → Data Scientist / ML Engineer / AI Engineer",
+    "fun_fact"    : "I ship to prod before I touch a slide deck"
 }
 ```
 
-> 🚀 Currently integrating **NVIDIA NIM LLMs** into a production platform serving real users.
-> 📊 Built a hybrid recommender with **Precision@10: 0.345** — a **+47% uplift** over baseline.
+<br/>
+
+> 💡 **Why I'm different for a fresher:**
+> I'm not showing you tutorial projects. I'm showing you systems I built for a real company,
+> with real users, using production-grade tools — NVIDIA NIM, WebSockets, Redis, Razorpay.
 
 ---
 
-## 🔥 What I'm Working On
+## 🚀 What I've Actually Built
 
-<table>
-<tr>
-<td width="50%">
+> *No tutorial clones. No Titanic datasets. Real problems, real architecture, real results.*
 
-### 🏠 LuxeEstate *(Active — Production)*
-AI-powered real estate platform at IndiaNIC Infotech. Shipping real features to real users.
-
-`NVIDIA NIM` `LLMs` `Django` `WebSockets` `Redis`
-
-</td>
-<td width="50%">
-
-### 🎵 SpotifyMoodML *(Shipped)*
-Mood-aware hybrid recommender. **+47% precision uplift** over baseline.
-
-`DistilBERT` `Collaborative Filtering` `FastAPI` `Power BI`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 Amazon Supply Chain *(Shipped)*
-100K+ transaction analytics pipeline with hypothesis testing and Power BI dashboards.
-
-`Pandas` `SQL` `SciPy` `Power BI`
-
-</td>
-<td width="50%">
-
-### 🍳 ChefGPT *(Shipped)*
-LLM-powered recipe intelligence with image-based ingredient detection.
-
-`FastAPI` `LLMs` `NLP` `MySQL`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Featured Projects
-
-<details>
-<summary><b>🏠 LuxeEstate — AI-Powered Real Estate Platform (click to expand)</b></summary>
 <br/>
 
-> **Stack:** `Python` `Django` `FastAPI` `DRF` `PostgreSQL` `Redis` `WebSockets` `NVIDIA NIM` `Razorpay`
+### 🏠 LuxeEstate — AI Real Estate Platform
+**`[Active @ IndiaNIC Infotech — Production]`**
 
-**The Problem:** Property search is intent-blind — keyword filters fail to understand what users *actually* want, causing drop-off before inquiry. Agents lose deals in async communication lag.
+A fresher's first internship project — except it ships to production with NVIDIA NIM LLMs powering it.
 
-**What I Built & Shipped:**
-- ⚡ **10+ production REST APIs** — property search, auth, payments, analytics across the full lifecycle
-- 🤖 **NVIDIA NIM LLM integration** — Llama 3.1 for conversational natural-language search; NEVA 22B for image-based listing discovery
-- 💬 **Real-time bidirectional messaging** — Django Channels + WebSockets + Redis at scale
-- 📊 **Live admin dashboard** — KPI charts auto-refreshing every 15 seconds, zero manual reporting
-- 🤖 **Telegram bot** — city-based property search, appointment scheduling, travel-time queries
-- 🔐 **Auth + Payments** — Google OAuth, OTP, Razorpay with webhook processing and invoice generation
-- 🚀 **Production deployed** — Gunicorn + Daphne + Nginx, SEO-optimised URLs + sitemap
+| What | Details |
+|:---|:---|
+| 🤖 **LLM Integration** | NVIDIA NIM Llama 3.1 for conversational property search; NEVA 22B for image-based listing discovery |
+| ⚡ **APIs Built** | 10+ REST APIs — property search, auth, payments, analytics (Django + DRF + PostgreSQL) |
+| 💬 **Real-time Messaging** | Django Channels + WebSockets + Redis — instant agent-client communication |
+| 📊 **Live Dashboard** | Admin KPI dashboard, auto-refreshes every 15 seconds |
+| 🤖 **Telegram Bot** | City-based property search, appointment scheduling, travel-time queries |
+| 🔐 **Auth + Payments** | Google OAuth, OTP login, Razorpay gateway with webhooks + invoice generation |
+| 🚀 **Deployed** | Gunicorn + Daphne + Nginx — actual production deployment, not localhost |
 
-**Impact:** Natural language search bridges user intent to listing discovery. Real-time messaging eliminates agent-client communication delays. System is live in production.
+> *Stack: `Python` `Django` `FastAPI` `PostgreSQL` `Redis` `NVIDIA NIM` `Razorpay` `WebSockets`*
 
-</details>
-
-<details>
-<summary><b>🎵 SpotifyMoodML — Mood-Aware Music Recommendation System (click to expand)</b></summary>
 <br/>
 
-> **Stack:** `Python` `Scikit-learn` `HuggingFace` `DistilBERT` `RoBERTa` `VADER` `FastAPI` `PostgreSQL` `Power BI`
+### 🎵 SpotifyMoodML — Mood-Aware Recommender System
+**`[Shipped — Gujarat University Final Project]`**
 
-**The Problem:** Playlist engines use listening history — not how you feel *right now*. Mood is transient; recommendations should be too.
+Standard recommenders use your history. This one uses how you feel *right now*.
 
-**What I Built:**
-- 🧠 **Hybrid architecture** — Collaborative Filtering (ALS) + Content-Based (TF-IDF + SVD) + Mood-Aware re-ranking
-- 📝 **NLP emotion pipeline** — DistilBERT / RoBERTa for lyrics emotion classification + VADER sentiment analysis
-- ⏰ **Context-aware re-ranking** — adjusts by time of day, activity (workout / study / relax), and season
-- 🎵 **Multimodal mood signals** — Spotify audio features (valence, energy, danceability) + lyrics + social sentiment
-- 🌐 **FastAPI REST service** — `/recommend`, `/similar`, `/mood` endpoints
-- 📊 **4-page Power BI dashboard** — live mood filters + Precision@K / NDCG@K KPI cards
+| What | Details |
+|:---|:---|
+| 🧠 **Architecture** | Hybrid: Collaborative Filtering (ALS) + Content-Based (TF-IDF + SVD) + Mood Re-ranking |
+| 📝 **NLP Pipeline** | DistilBERT + RoBERTa for lyrics emotion classification; VADER for sentiment |
+| ⏰ **Context Layer** | Re-ranks by time of day, activity type (workout/study/relax), and season |
+| 🌐 **API** | FastAPI service — `/recommend` `/similar` `/mood` endpoints |
+| 📊 **Dashboard** | 4-page Power BI with live mood filters + Precision@K / NDCG@K cards |
 
-**Results:**
+**Measured Results — not guesses:**
 
 | Model | Precision@10 | Recall@10 | NDCG@10 | Coverage |
 |:---|:---:|:---:|:---:|:---:|
 | Mood-Only Baseline | 0.235 | — | — | — |
-| **Context-Aware Hybrid** | **0.345** | **0.267** | **0.289** | **63.4%** |
-| **Uplift vs Baseline** | **+47%** ✅ | — | — | — |
+| **My Hybrid System** | **0.345** | **0.267** | **0.289** | **63.4%** |
+| **vs Baseline** | **+47% ✅** | — | — | — |
 
-</details>
+> *Stack: `Scikit-learn` `HuggingFace Transformers` `DistilBERT` `VADER` `FastAPI` `PostgreSQL` `Power BI`*
 
-<details>
-<summary><b>📊 Amazon Supply Chain Analytics — Demand & Inventory Intelligence (click to expand)</b></summary>
 <br/>
 
-> **Stack:** `Python` `SQL` `Power BI` `Pandas` `NumPy` `SciPy`
+### 📊 Amazon Supply Chain Analytics
+**`[Shipped — Data Engineering Project]`**
 
-**The Problem:** Retail bleeds margin from overstocking slow movers and stockouts on high-velocity SKUs — both caused by poor demand signal visibility.
+100,000+ rows of retail transaction data → actionable business decisions.
 
-**What I Built:**
-- 🗄️ Processed **100K+ global transaction rows** — 95%+ data quality post-cleaning with outlier detection
-- 📐 **Hypothesis testing** (t-test, ANOVA) to surface statistically significant sales drivers
-- 🔧 **Advanced SQL** — CTEs, window functions for profit margin and shipping delay queries
-- 📊 **5-page Power BI executive dashboard** — Revenue · Shipping Delays · Sales Channel · Regional Performance · KPI Summary
+- Cleaned and processed **100K+ transaction rows** to 95%+ quality
+- Applied **t-test + ANOVA** to prove statistical significance of sales drivers  
+- Built **advanced SQL** (CTEs, window functions) for profit margin and delay queries
+- Delivered **5-page Power BI executive dashboard** with slicers, KPI cards, and regional maps
 
-**Pipeline:** `Python EDA` → `Feature Engineering` → `SQL Analytics` → `Power BI Dashboards`
+> *Stack: `Python` `Pandas` `NumPy` `SciPy` `SQL` `Power BI` `Excel`*
 
-</details>
+<br/>
+
+### 🍳 ChefGPT — AI Recipe Intelligence System
+**`[Shipped — Personal Project]`**
+
+LLM-powered recipe generation from both text input and image-based ingredient detection — with nutrition-aware recommendations, BPE-optimised prompts, and bilingual support via FastAPI.
+
+> *Stack: `Python` `FastAPI` `MySQL` `LLMs` `NLP` `Computer Vision`*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
 <div align="center">
 
@@ -185,7 +148,6 @@ LLM-powered recipe intelligence with image-based ingredient detection.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 **Databases & Infrastructure**
 
@@ -204,7 +166,7 @@ LLM-powered recipe intelligence with image-based ingredient detection.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jainam-shah-18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jainam-shah-18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jainam-shah-18&theme=tokyonight&hide_border=true" />
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainam-shah-18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
@@ -221,7 +183,7 @@ LLM-powered recipe intelligence with image-based ingredient detection.
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏅 Trophies
 
 <div align="center">
 
@@ -231,7 +193,7 @@ LLM-powered recipe intelligence with image-based ingredient detection.
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity
 
 <div align="center">
 
@@ -241,35 +203,39 @@ LLM-powered recipe intelligence with image-based ingredient detection.
 
 ---
 
-## 🎯 Currently Open To
+## 🎯 What I'm Looking For
+
+I'm a **fresher actively seeking my first full-time role**. Here's exactly what I'm targeting:
 
 <div align="center">
 
-| Role | Type | Status |
+| Role | Seniority | Status |
 |:---|:---|:---:|
-| 🤖 AI / ML Engineer | Full-time · Fresher | ✅ Open |
-| 📊 Data Scientist | Full-time · Fresher | ✅ Open |
-| 🔧 Data Engineer | Full-time · Fresher | ✅ Open |
-| 🐍 Backend Python / AI Engineer | Full-time · Fresher | ✅ Open |
-| 🤝 Open Source Collaboration | NLP · RecSys · LLM Apps | ✅ Open |
+| 🤖 AI / ML Engineer | Fresher · 0–1 yr | ✅ Open |
+| 📊 Data Scientist | Fresher · 0–1 yr | ✅ Open |
+| 🔧 Data Engineer | Fresher · 0–1 yr | ✅ Open |
+| 🐍 Backend AI / Python Engineer | Fresher · 0–1 yr | ✅ Open |
 
 </div>
 
+I bring what most freshers don't: **production system experience**, **measured ML results**, and a stack that goes beyond scikit-learn tutorials.
+
 ---
 
-## 📬 Let's Connect
+## 📬 Reach Out
 
 <div align="center">
 
-I respond within 24 hours. Building AI products or hiring for ML/Data roles? **Let's talk.**
+**I'm easy to reach and quick to respond.**
+If you're hiring for ML/Data roles or want to collaborate on something real — send me a message.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jainamshah41)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainamshah714@gmail.com)
+[![Email](https://img.shields.io/badge/jainamshah714@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainamshah714@gmail.com)
 
 <br/>
 
-*"I don't just build models. I build systems that ship."*
+*"0 years of experience. 4 shipped projects. Ready from day one."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
