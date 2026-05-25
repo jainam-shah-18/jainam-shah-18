@@ -22,26 +22,24 @@
 
 ## 🧠 Who Am I
 
-```python
-profile = {
-    "name"         : "Jainam Shah",
-    "status"       : "Fresher  |  0 yrs full-time  |  4 production-grade systems shipped",
-    "current_role" : "Python & AIML Intern @ IndiaNIC Infotech Ltd, Ahmedabad 🇮🇳",
-    "building_now" : "LuxeEstate — AI real estate platform w/ NVIDIA NIM LLMs (live @ IndiaNIC)",
-    "best_result"  : "SpotifyMoodML → Precision@10: 0.345  (+47% over baseline)",
-    "daily_stack"  : ["Python", "Django", "FastAPI", "PyTorch", "PostgreSQL", "Redis"],
-    "infra_built"  : ["Gunicorn", "Daphne", "Nginx", "WebSockets", "Webhooks", "Redis Channels"],
-    "target_role"  : "Data Scientist / ML Engineer / AI Engineer — First Full-Time Role",
-    "differentiator": "Not tutorial clones. Systems that handle auth, payments, real-time comms, and LLM inference.",
-}
+🎓 &nbsp;**Final-year graduate** · Python & AIML Intern @ **IndiaNIC Infotech Ltd**, Ahmedabad 🇮🇳
 
-# ✅ Active internship at a product company — not just side projects
-# ✅ NVIDIA NIM (Llama 3.1 + NEVA 22B) integrated into a production platform
-# ✅ Quantified ML metrics — Precision@K, Recall@K, NDCG@K
-# ✅ Full-stack AI deployment: Nginx reverse proxy + Daphne ASGI + Gunicorn WSGI
-# ✅ Real-time infrastructure: Django Channels + Redis + WebSockets
-# ✅ Payment integration with webhooks: Razorpay + invoice generation
-```
+🚀 &nbsp;Shipped **4 production AI systems** — NVIDIA NIM LLMs · WebSockets · Razorpay Webhooks · Nginx · Gunicorn · Daphne
+
+📌 &nbsp;Seeking first full-time role as **Data Scientist / ML Engineer / AI Engineer** · Open to relocation
+
+---
+
+**What sets me apart from other freshers:**
+
+| | |
+|---|---|
+| ✅ **Real internship** | Active at a product company — not just personal projects |
+| ✅ **LLM in production** | NVIDIA NIM Llama 3.1 + NEVA 22B integrated into a live platform |
+| ✅ **Measured ML results** | Precision@K · Recall@K · NDCG@K — numbers, not claims |
+| ✅ **Production infra** | Nginx reverse proxy + Daphne ASGI + Gunicorn WSGI — not localhost |
+| ✅ **Real-time systems** | Django Channels + Redis + WebSockets — live messaging in production |
+| ✅ **Payment integration** | Razorpay with webhooks + invoice generation — end-to-end |
 
 ---
 
