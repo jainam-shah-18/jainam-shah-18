@@ -1,15 +1,18 @@
 <div align="center">
 
-# Hi, I'm Jainam Shah 👋
-### Python & AIML Intern @ IndiaNIC Infotech — Ahmedabad, India 🇮🇳
+# Jainam Shah
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=680&lines=4+Production+AI+Systems+Shipped;NVIDIA+NIM+LLMs+%2B+WebSockets+%2B+Nginx+in+Production;Recommender+Systems+%7C+NLP+%7C+Applied+ML;Seeking%3A+Data+Scientist+%2F+ML+Engineer+%2F+AI+Engineer)](https://git.io/typing-svg)
+### Python & AIML Intern @ IndiaNIC Infotech · Ahmedabad, India 🇮🇳
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=4+Production+AI+Systems+Shipped;NVIDIA+NIM+LLMs+%2B+WebSockets+%2B+Nginx+in+Production;Recommender+Systems+%7C+NLP+%7C+Applied+ML;Seeking%3A+Data+Scientist+%2F+ML+Engineer+%2F+AI+Engineer)](https://git.io/typing-svg)
 
 <br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=jainam-shah-18&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/jainam-shah-18)
-[![Open To Work](https://img.shields.io/badge/Open%20To%20Work-Fresher%200--1yr-brightgreen?style=for-the-badge)](https://linkedin.com/in/jainamshah41)
-[![Location](https://img.shields.io/badge/Ahmedabad%2C%20India-🇮🇳-orange?style=for-the-badge)](https://github.com/jainam-shah-18)
+[![Open To Work](https://img.shields.io/badge/Open%20To%20Work-Fresher%20%7C%200--1yr-brightgreen?style=for-the-badge)]()
+[![Location](https://img.shields.io/badge/Ahmedabad%2C%20India-FF6B35?style=for-the-badge)]()
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jainamshah41)
 [![Gmail](https://img.shields.io/badge/Gmail-jainamshah714-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainamshah714@gmail.com)
@@ -44,13 +47,11 @@
 
 ## 🚀 Featured Projects
 
----
-
 ### 🏠 LuxeEstate — AI-Powered Real Estate Platform
 **`Active Internship Project @ IndiaNIC Infotech · In Production`**
 
 [![Repo](https://img.shields.io/badge/GitHub-LuxeEstate-181717?style=flat-square&logo=github)](https://github.com/jainam-shah-18/LuxeEstate)
-[![Stack](https://img.shields.io/badge/Stack-Django%20·%20NVIDIA%20NIM%20·%20Redis%20·%20WebSockets-blue?style=flat-square)]()
+[![Stack](https://img.shields.io/badge/Stack-Django%20%7C%20NVIDIA%20NIM%20%7C%20Redis%20%7C%20WebSockets-blue?style=flat-square)]()
 [![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)]()
 
 Full-stack Django platform with NVIDIA NIM LLM conversational search, image-based property discovery (NEVA 22B), real-time agent-client messaging via WebSockets + Redis, Razorpay payments with webhooks, a Telegram bot, and a live admin analytics dashboard — deployed on Gunicorn + Daphne + Nginx.
@@ -63,7 +64,7 @@ Full-stack Django platform with NVIDIA NIM LLM conversational search, image-base
 **`Shipped · Gujarat University Final Project`**
 
 [![Repo](https://img.shields.io/badge/GitHub-mood--spotify--ml-181717?style=flat-square&logo=github)](https://github.com/jainam-shah-18/mood-spotify-ml)
-[![Result](https://img.shields.io/badge/Precision@10-0.345%20(+47%25%20uplift)-brightgreen?style=flat-square)]()
+[![Result](https://img.shields.io/badge/Precision%4010-0.345%20(%2B47%25%20uplift)-brightgreen?style=flat-square)]()
 [![Status](https://img.shields.io/badge/Status-Shipped-blue?style=flat-square)]()
 
 Hybrid recommender (ALS + TF-IDF/SVD + Mood Re-ranking) with DistilBERT/RoBERTa NLP emotion pipeline, context-aware re-ranking by time-of-day and activity, FastAPI REST service, and a 4-page Power BI analytics dashboard.
@@ -82,7 +83,7 @@ Hybrid recommender (ALS + TF-IDF/SVD + Mood Re-ranking) with DistilBERT/RoBERTa 
 **`Shipped · Data Engineering Project`**
 
 [![Repo](https://img.shields.io/badge/GitHub-supply--chain--analytics-181717?style=flat-square&logo=github)](https://github.com/jainam-shah-18/supply-chain-analytics)
-[![Data](https://img.shields.io/badge/Dataset-100K%2B%20rows%20·%2095%25%2B%20quality-orange?style=flat-square)]()
+[![Data](https://img.shields.io/badge/Dataset-100K%2B%20rows%20%C2%B7%2095%25%2B%20quality-orange?style=flat-square)]()
 
 100K+ transaction row EDA pipeline with hypothesis testing (t-test + ANOVA), advanced SQL (CTEs + window functions), and a 5-page Power BI executive dashboard covering revenue, shipping delays, regional performance, and sales channel trends.
 
@@ -144,15 +145,20 @@ LLM-powered recipe generation with image-based ingredient detection, nutrition-a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jainam-shah-18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jainam-shah-18&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jainam-shah-18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api?username=jainam-shah-18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainam-shah-18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=jainam-shah-18&theme=tokyonight&hide_border=true" height="165"/>
+
+<br><br>
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=jainam-shah-18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jainam-shah-18&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
 
-![Snake animation](https://raw.githubusercontent.com/jainam-shah-18/jainam-shah-18/output/github-snake.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jainam-shah-18&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -175,9 +181,9 @@ LLM-powered recipe generation with image-based ingredient detection, nutrition-a
 
 **Fresher. 4 shipped systems. Production-ready from day one.**
 
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jainamshah41)
 [![Email](https://img.shields.io/badge/jainamshah714%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainamshah714@gmail.com)
-
-![](https://img.shields.io/badge/Production--Ready%20from%20Day%20One-0e75b6?style=for-the-badge)
 
 </div>
