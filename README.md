@@ -1,6 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jainam%20Shah&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Python%20%26%20AIML%20Intern%20%40%20IndiaNIC%20Infotech%20%E2%80%94%20Ahmedabad%2C%20India&descAlignY=60&descSize=15)
+# Hi, I'm Jainam Shah 👋
+### Python & AIML Intern @ IndiaNIC Infotech — Ahmedabad, India 🇮🇳
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=680&lines=4+Production+AI+Systems+Shipped;NVIDIA+NIM+LLMs+%2B+WebSockets+%2B+Nginx+in+Production;Recommender+Systems+%7C+NLP+%7C+Applied+ML;Seeking%3A+Data+Scientist+%2F+ML+Engineer+%2F+AI+Engineer)](https://git.io/typing-svg)
 
@@ -177,6 +178,6 @@ LLM-powered recipe generation with image-based ingredient detection, nutrition-a
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jainamshah41)
 [![Email](https://img.shields.io/badge/jainamshah714%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainamshah714@gmail.com)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![](https://img.shields.io/badge/Production--Ready%20from%20Day%20One-0e75b6?style=for-the-badge)
 
 </div>
